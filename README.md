@@ -1,0 +1,2 @@
+# scc
+School Carbon Calculator
